@@ -1,23 +1,27 @@
-# Santino Stimoli - Desarrollador de Software
+# ¡Hola! 👋
 
-¡Hola! Soy Santino Stimoli, un desarrollador de software de Buenos Aires, Argentina. Me especializo en el desarrollo Full Stack y me apasiona encontrar soluciones innovadoras para resolver problemas complejos. Con experiencia en la creación de sitios web, me enfoco en el diseño y la usabilidad para ofrecer experiencias de usuario excepcionales.
+Soy un desarrollador de software con más de dos años de experiencia, enfocado principalmente en el desarrollo web. Soy una persona perseverante y autodidacta, y disfruto cada día de mi trabajo. Mi energía y pasión también se extienden a mi vida personal, ya que desde los 6 años entreno TaeKwon-Do.
 
-## Tecnologías y Habilidades
+## Proyectos Destacados
 
-- HTML, CSS, Bootstrap, Tailwind
-- JavaScript, TypeScript
-- React, Angular, Vue
-- JAVA, Spring
-- Jira, Git, Postman, RapidAPI, Trello, Adobe
-- Metodologías Ágiles
+Durante mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos, incluyendo e-commerce, ERP, homebanking, entre otros. Todos estos proyectos pueden ser revisados en mi GitHub, donde encontrarás una amplia gama de tecnologías que he utilizado.
 
-## Sobre mí
+## Tecnologías
 
-Me considero una persona proactiva y comprometida, siempre en busca de aprender y mejorar mis habilidades. Disfruto trabajar en equipo y colaborar con otros para lograr objetivos comunes. Fuera del mundo del desarrollo, tengo una pasión por el TaeKwon-Do, una disciplina que practico desde muy joven. Además de mi carrera como desarrollador, tengo el deseo de comenzar a dar clases y continuar creciendo en este arte marcial.
+A lo largo de estos años, he trabajado con las siguientes tecnologías:
+
+- HTML
+- CSS, Bootstrap, Tailwind
+- JavaScript, React, Vue
+- TypeScript, React, Angular
+- JAVA, Spring Boot, Gradle, PostgreSQL
+- Git, Github
+- Jira, BitBucket
+- Trello
+- PhotoShop, Illustrator
 
 ## Contacto
 
-Si tienes alguna propuesta o proyecto en mente, no dudes en contactarme. Estoy siempre abierto a nuevas oportunidades y emocionado por participar en desafíos interesantes.
+Te invito a visitar mi portfolio personal en el siguiente enlace, donde podrás encontrar más detalles y mis redes de contacto:
 
-¡Espero poder colaborar contigo y llevar tus ideas a la realidad!
-
+[santinostimoli.online](https://santinostimoli.online)
