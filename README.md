@@ -28,7 +28,7 @@ Mi stack principal incluye herramientas y tecnologías tanto de front-end como d
 
 Podés ver más sobre mí y mis trabajos en mi portfolio personal:
 
-🔗 [santinostimoli.online](https://santinostimoli.online)
+🔗 [santinostimoli.com](https://santinostimoli.com)
 
 ---
 
