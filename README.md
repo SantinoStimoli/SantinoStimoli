@@ -1,27 +1,35 @@
 # ¡Hola! 👋
 
-Soy un desarrollador de software con más de dos años de experiencia, enfocado principalmente en el desarrollo web. Soy una persona perseverante y autodidacta, y disfruto cada día de mi trabajo. Mi energía y pasión también se extienden a mi vida personal, ya que desde los 6 años entreno TaeKwon-Do.
+Soy un desarrollador de software con **3 años de experiencia**, especializado en el desarrollo de aplicaciones web. Me destaco por ser **proactivo, versátil y autodidacta**, cualidades que me permiten adaptarme rápidamente a nuevos desafíos y tecnologías. Además, entreno **Taekwon-Do** desde los 6 años, disciplina que refuerza mi constancia, compromiso y enfoque en el crecimiento personal y profesional.
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-Durante mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos, incluyendo e-commerce, ERP, homebanking, entre otros. Todos estos proyectos pueden ser revisados en mi GitHub, donde encontrarás una amplia gama de tecnologías que he utilizado.
+A lo largo de mi carrera, participé en el desarrollo de proyectos de distinta complejidad y estructura, como sistemas **ERP**, plataformas de **e-commerce**, soluciones de **homebanking** y sistemas de **gestión empresarial**. Podés ver una muestra de estos trabajos en mi perfil de GitHub, donde también comparto proyectos personales y colaborativos.
 
-## Tecnologías
+## 🛠️ Tecnologías
 
-A lo largo de estos años, he trabajado con las siguientes tecnologías:
+Mi stack principal incluye herramientas y tecnologías tanto de front-end como de back-end:
 
-- HTML
-- CSS, Bootstrap, Tailwind
-- JavaScript, React, Vue
-- TypeScript, React, Angular
-- JAVA, Spring Boot, Gradle, PostgreSQL
-- Git, Github
-- Jira, BitBucket
-- Trello
-- PhotoShop, Illustrator
+### Front-end:
+- **HTML**, **CSS**, **Tailwind**, **Bootstrap**
+- **JavaScript**, **TypeScript**
+- **React**, **Vue**, **Angular**
 
-## Contacto
+### Back-end:
+- **Java**, **Spring Boot**, **Gradle**
+- **Node.js**, **MySQL**, **PostgreSQL**
 
-Te invito a visitar mi portfolio personal en el siguiente enlace, donde podrás encontrar más detalles y mis redes de contacto:
+### Herramientas y otros:
+- **Git**, **GitHub**, **Bitbucket**
+- **Jira**, **Trello**, **Azure DevOps**
+- **Postman**, **Photoshop**, **Illustrator**
 
-[santinostimoli.online](https://santinostimoli.online)
+## 🌐 Portfolio
+
+Podés ver más sobre mí y mis trabajos en mi portfolio personal:
+
+🔗 [santinostimoli.online](https://santinostimoli.online)
+
+---
+
+¡Gracias por visitar mi perfil! 😊
